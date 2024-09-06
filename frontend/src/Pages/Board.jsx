@@ -1,6 +1,7 @@
-import Card from './Card.jsx'
-import AddTask from './AddTask.jsx'
-import Search from './Search.jsx'
+import Card from '../components/homepage_components/Card.jsx'
+import AddTask from '../components/homepage_components/AddTask.jsx'
+import Search from '../components/homepage_components/Search.jsx'
+import '../components/homepage_components/index.css'
 
 function App() {
 

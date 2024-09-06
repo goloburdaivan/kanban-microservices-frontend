@@ -1,4 +1,4 @@
-import searchIcon from '../homepage_components../src/search_icon.png'
+import searchIcon from './assets/search_icon.png'
 
 
 function Search(){

@@ -1,4 +1,4 @@
-import moveIcon from '../homepage_components../src/move_icon.png';
+import moveIcon from './assets/move_icon.png';
 import PropTypes from 'prop-types'
 
 function Card(props) {

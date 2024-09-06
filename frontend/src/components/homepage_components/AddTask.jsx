@@ -1,4 +1,4 @@
-import addIcon from '../homepage_components../src./public/add_icon.png'
+import addIcon from "./assets/add_icon.png"
 function AddTask() {
     return(
     <div className="add-task-div">
